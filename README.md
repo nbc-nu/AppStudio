@@ -17,5 +17,5 @@ probabilly will show smartscreen blocking it, so you can select See More and the
 This program is not a malware, its just because the donwloaded .exe do not have a certificate.
 
 # V2 - Create APKs
-Now you can create apks to, to see the instructions open: https://nbc-nu.github.io/AppStudio/APK7
+Now you can create apks to, to see the instructions open: https://nbc-nu.github.io/AppStudio/APK
 create your app and see the instructions shown

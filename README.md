@@ -15,3 +15,7 @@ Press space and wait it compile. Then extract the zip donwloaded and when open t
 probabilly will show smartscreen blocking it, so you can select See More and then Open Anyway.
 ### About the SmartScreen Screen
 This program is not a malware, its just because the donwloaded .exe do not have a certificate.
+
+# V2 - Create APKs
+Now you can create apks to, to see the instructions open: https://nbc-nu.github.io/AppStudio/APK7
+create your app and see the instructions shown
